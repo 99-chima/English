@@ -1,0 +1,64 @@
+.green-box{
+    background-color: #00ac92;
+    height: 400px;
+    padding: 50px;
+}
+.teacher1{
+    height: 450px;
+    background: url(./images/front-view-women-correcting-gram.jpeg) center/cover,
+    no-repeat, fixed;
+}
+.border-box{  
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.78));
+    opacity: 0.8;
+    position: relative;
+   top: 320px;
+  
+}
+.teacher2{ height: 450px;
+    background: url(./images/it-s-your-result-is-higher-than.jpeg) center/cover,
+    no-repeat, fixed;}
+.teacher3{height: 450px;
+    background: url(./images/group-creative-people-analyzing.jpeg) center/cover,
+    no-repeat, fixed;}
+    .beginner{ height: 300px;
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(./images/female-english-teacher-doing-her.jpeg) center/cover,
+        no-repeat, fixed; 
+    }
+    .online{ height: 300px;
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(./images/teacher-talking-with-her-student.jpeg) center/cover,
+        no-repeat, fixed;  
+    }
+    .Business{ height: 300px;
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(./images/medium-shot-woman-holding-docume.jpeg) center/cover,
+        no-repeat, fixed;  
+    }
+    .listener{ height: 300px;
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(./images/vertical-shot-freckled-brunette-young-woman-sits-home-with-credit-card_273609-19077.jpeg) center/cover,
+        no-repeat, fixed;  
+    }
+    .smile{
+        height: 300px;
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(./images/woman-working-office_144627-4422.jpeg) center/cover,
+        no-repeat, fixed;  
+    }
+    .virtual{
+        height: 300px;
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(./images/virtual-classroom-study-space_23.jpeg) center/cover,
+        no-repeat, fixed; 
+    }
+    .group{
+        height: 300px;
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(./images/group-three-young-good-looking-s.jpeg) center/cover,
+        no-repeat, fixed; 
+    }
+    .boy{
+        height: 300px;
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(./images/smiley-boy-using-laptop-headphon.jpeg) center/cover,
+        no-repeat, fixed; 
+    }
+    .skills{
+        height: 500px;
+        background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(./images/bvvb.jpeg) center/cover,
+        no-repeat, fixed;
+    }

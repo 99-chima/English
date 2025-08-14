@@ -1,0 +1,44 @@
+.teacher1{
+    height: 450px;
+    background: url(./images/english-teacher-doing-her-lesson.jpeg) center/cover,
+    no-repeat, fixed;
+}
+.border-box{  
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.78));
+    opacity: 0.8;
+    position: relative;
+   top: 320px;
+  
+}
+.teacher2{ height: 450px;
+    background: url(./images/business-man-holding-presentatio.jpeg) center/cover,
+    no-repeat, fixed;}
+.teacher3{height: 450px;
+    background: url(./images/concentrated-teacher-drawing-boa.jpeg) center/cover,
+    no-repeat, fixed;}
+.beginner{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(./images/female-english-teacher-doing-her.jpeg) center/cover,
+    no-repeat, fixed; 
+}
+.online{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(./images/teacher-talking-with-her-student.jpeg) center/cover,
+    no-repeat, fixed;  
+}
+.Business{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(./images/medium-shot-woman-holding-docume.jpeg) center/cover,
+    no-repeat, fixed;  
+}
+.kids{
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url(./images/medium-shot-smiley-girl-wearing.jpeg) center/cover,
+    no-repeat, fixed;   
+}
+.green-line{
+    padding: 2px;
+    background-color: #00ac92;
+}
+.red-box{
+    height: 400px;
+    padding: 50px;
+    background-color: #ff5a5a;
+    margin-top: -50px;
+}

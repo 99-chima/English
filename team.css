@@ -1,0 +1,5 @@
+.workshop{
+    height: 600px;
+    background: linear-gradient(to bottom, rgba(26, 26, 26, 0.55), rgba(26, 26, 26, 0.55)), url(./images/group-multinational-busy-people-working-office6-min.jpeg) center/cover,
+    no-repeat, fixed;
+}
